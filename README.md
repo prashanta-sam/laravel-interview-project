@@ -1,5 +1,5 @@
 # Welcome to Round 3 of your Laravel Interview
-# ![Codebuddy Pvt. Ltd. Round 3 Interview](https://codebuddy.co/assets/img/logo.png)
+# 
 
 > This round is to test your **Debugging capabilities, Code optimization skills and Code quality** in a real world application.
 
