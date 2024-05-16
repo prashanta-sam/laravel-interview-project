@@ -1,4 +1,4 @@
-# Welcome to Round 3 of your Laravel Interview
+# Welcome to Laravel Interview
 # 
 
 > This round is to test your **Debugging capabilities, Code optimization skills and Code quality** in a real world application.
